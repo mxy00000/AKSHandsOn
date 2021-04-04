@@ -8,6 +8,8 @@ ACR: mxyacr (mooncake)
 
 AKS: AKS(Azure Global) P.S already removed 
 
+CosmosDB: akscosmos2 P.S already removed
+
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 known issue:
